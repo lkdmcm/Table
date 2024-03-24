@@ -1,0 +1,46 @@
+
+.a{
+    box-shadow: 2px 2px 2px 2px  rgb(213, 210, 210);
+}
+.b{
+    background-color: rgb(243, 240, 237);
+}
+.s{
+    color: blue;
+    display: flex;
+}
+.btn1{
+    background: rgb(245, 233, 9);
+    color: white;
+    font: bolder;
+    border-radius: 4px;
+    align-items: center;
+}
+.btn2{
+    background: rgb(14, 248, 76);
+    color: white;
+    font: bolder;
+    border-radius:  4px;
+    align-items: center;
+}
+.btn3{
+    background: rgb(65, 14, 248);
+    color: white;
+    font: bolder;
+    border-radius: 4px;
+    align-items: center;
+}
+.btn4{
+    background: rgb(65, 14, 248);
+    color: white;
+    font: bolder;
+    border-radius: 4px;
+    align-items: center;
+}
+.btn5{
+    background: rgb(14, 248, 61);
+    color: white;
+    font: bolder;
+    border-radius: 4px;
+    align-items: center;
+}
